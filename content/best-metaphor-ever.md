@@ -1,0 +1,12 @@
+Title: Best Metaphor Ever?
+Date: 2011-03-21 13:30
+Author: lindsayrgwatt
+Category: Random, Science
+Slug: best-metaphor-ever
+Status: published
+
+Wendy is currently reading [Bill Bryson](http://en.wikipedia.org/wiki/Bill_Bryson)'s *[A Short History of Nearly Everything](http://www.amazon.com/Short-History-Nearly-Everything/dp/0767908171)* . From it comes the following passage, with possibly the best metaphor ever for the slow pace of geological time:
+
+> ...If you imagine the 4.5 billion odd years of Earth's history compressed into a normal earthly day, then life begins very early, about 4 a.m., with the rise of the first simple, single-celled organisms, but then advances no further for the next sixteen hours. Not until almost 8:30 in the evening, with the day five-sixth over, has Earth anything to show the universe but a restless skin of microbes. Then, finally, the first sea plants appear, followed twenty minutes later by the first jellyfish and the enigmatic [Ediacaran fauna](http://en.wikipedia.org/wiki/Ediacara_biota) first seen by [Reginald Sprigg](http://en.wikipedia.org/wiki/Reg_Sprigg) in Australia. At 9:04 p.m. trilobites swim onto the scene, followed more or less immediately by the shapely creatures of the [Burgess Shale](http://en.wikipedia.org/wiki/Burgess_Shale). Just before 10 p.m. plants begin to pop up on the land. Soon after, with less than two hours left in the day, the first land creatures follow.
+>
+> Thanks to ten minutes or so of balmy weather, by 10:24 the Earth is covered in the great carboniferous forests whose residues give us all our coal, and the first winged insects are evident. Dinosaurs plod onto the scene just before 11 p.m. and hold sway for about three-quarters of an hour. At twenty-one minutes to midnight they vanish and the age of mammals begins. Humans emerge one minute and seventeen seconds before midnight. The whole of our recorded history, on this scale, would be no more than a few seconds, a single human lifetime barely an instant. Throughoutt this greatly speeded-up day continents slide about and bang together at a clip that seems positively reckless. Mountains rise and melt away, ocean basins come and go, ice sheets advance and withdraw. And throughout the whole, about three times every minutes, somewhere on the planet this a flashbulb pop of light marking the impact of a [Manson-sized meteor](http://en.wikipedia.org/wiki/Manson_crater) or one even larger. It's a wonder that anything at all can survive in such a pummelled and unsettled environment. In fact, not many things do for long.
